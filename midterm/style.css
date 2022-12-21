@@ -1,0 +1,60 @@
+
+#h1 {
+    float: left;
+    text-align: center;
+
+}
+
+#m1 {
+    float: left;
+    text-align: center;
+    
+}
+
+input[type=text] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid slategray;
+}
+input[type=login]{
+    background-color: #404040;
+    border: none;
+    color: white;
+    padding: 5px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.loing {
+    width: 500%;
+    height: 500%;
+    margin: 200px 200px;
+   
+}
+#p1 {
+    color: gray;
+}
+
+.button {
+    background-color: white;
+  color: black;
+  border: 2px solid #555555;
+
+}
+#d1 {
+    width: none;
+    background-color: purple;
+  
+  
+}
+#d2 {
+    color: aliceblue;
+    background-color: purple;
+}
